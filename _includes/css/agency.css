@@ -547,7 +547,7 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
-@media(min-width:1768px) {
+@media(min-width:768px) {
     .timeline:before {
         left: 50%;
     }
@@ -560,7 +560,7 @@ section h3.section-subheading {
     .timeline>li .timeline-panel {
         float: left;
         width: 41%;
-        padding: 0 20px 20px 30px;
+        padding: 0 20px 20px 0px;
         text-align: right;
     }
 
