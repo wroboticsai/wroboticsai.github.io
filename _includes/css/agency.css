@@ -53,9 +53,9 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     /*font-family: {{ site.data.template.font.primary }};*/
-    font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
