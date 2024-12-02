@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Hole in the Wall
+subtitle: SNU ISP 2024
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -9,9 +9,11 @@ video: https://www.youtube.com/embed/M_ysYBU-eBw?si=YTYNw0FO7woKLM4E
 thumbnail: matching.jpg
 #thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2024
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: SNU ISP
+description: Our project, "Pose Recognition and Scoring", uses human pose estimation tool to create an interactive mini game inspired by the Japanese reality show "Hole in the Wall".
+The game prompts users to mimic specific poses, which are then captured by Gretchen and scored based on their similarity to reference poses. The core technology involves identifying the landmarks of the human body, generating a set of coordinates that describe the user's pose. We utilized the MediaPipe Pose Landmarker to achieve that, and then by comparing those coordinates with the coordinates from the reference pose using Euclidean distance, a similarity score is calculated.
+Our implementation includes additional features such as a countdown timer, score display, and real-time wireframe superimposition, enhancing the user experience. The game also includes a "difficult mode" where the Gretchen pans randomly before the shooting, requiring users to adjust their position.
 
 ---
