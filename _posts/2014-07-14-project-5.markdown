@@ -1,17 +1,17 @@
 ---
-title: Bullseye
+title: Gretchen Plays Darts
 subtitle: HSLU
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2025
 img: startup-framework.png
 video: https://www.youtube.com/embed/_htDOF6rRko?si=2-Hx7ZXFbFxIgqfS
 thumbnail: bullseye.jpg
 #thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2025
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: HSLU
+description: This project focuses on the use of AI and robotics in darts and aims to enable a humanoid AI robot, Gretchen, to precisely detect scores on a dartboard. Using computer vision and polar coordinate analysis, we modified Gretchen to interact with the physical game environment, overcoming the challenges of object recognition and robotic precision. As a result Gretchen was able to successfully calculate the scores during darts. This work not only demonstrates the possibilities of AI and robotics in precision sports, but also creates a baseline for future work on human-robot interaction in traditional games. 
 
 ---
