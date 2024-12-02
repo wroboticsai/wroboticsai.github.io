@@ -2,7 +2,7 @@ url: https://wroboticsai.github.io
 baseurl: /
 
 # Site settings
-title: AI Robotics  
+title: AI Robotics
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Bernard Egger
   pic: 1
-  position: Founder/Instructor
+  position: Founder • Instructor
   social:
     - title: twitter
       url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Richard Shinn
   pic: 2
-  position: Founder/Guest Speaker
+  position: Founder • Guest Speaker
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Wally WonTaek Chung
   pic: 3
-  position: Co-Founder/Lead Developer
+  position: Co-Founder • Lead Developer
   social:
     - title: twitter
       url: #
