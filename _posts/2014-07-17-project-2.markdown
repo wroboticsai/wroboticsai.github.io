@@ -5,6 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
+video: https://youtu.be/iULCHdXo3I4?si=iJ8U9HMX6-O9JnIz
 #thumbnail: escape-thumbnail.png
 thumbnail: chamchamcham.jpg
 alt: image-alt
