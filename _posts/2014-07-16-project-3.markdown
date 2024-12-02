@@ -1,5 +1,5 @@
 ---
-title: Minecraft Gretchen Edition 
+title: Minecraft Gretchen Edition
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -9,9 +9,9 @@ video: https://www.youtube.com/embed/nw2Lm2UKq2E?si=zSQdDNPVwLulr8Yp
 thumbnail: minecraft.jpg
 #thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2024
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: SNU ISP 2024
+description: The primary objective of this project is to use facial and hand gesture recognition to translate real-time movements into in-game controls. This technology has the potential to make Minecraft accessible to differently-abled individuals who may struggle with conventional control mechanisms such as keyboards and mice. By doing so, our project not only aims to enhance the gaming experience but also make an iconic game like Minecraft accessible to a broader audience.  
 
 ---
