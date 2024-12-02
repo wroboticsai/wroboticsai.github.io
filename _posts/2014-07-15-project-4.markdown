@@ -12,6 +12,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Our project, “Pose Recognition and Scoring”, involves applying the concept of pose recognition in a more recreational manner. In this mini game, inspired by the Japanese reality show “Hole in the Wall”, where contestants contort their bodies to fit through cut-out shapes in a moving wall, users will be prompted to strike a pose which looks like what is displayed in the picture. The user’s pose would be captured using Gretchen’s camera after 10 seconds, and subsequently scored by its similarity to the original pose. Our goal is to use computer vision and Gretchen to bring “Hole in the Wall” into the classroom for a fun, immersive, and seamless experience.
 
 ---
