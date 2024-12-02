@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-video: https://youtu.be/M_ysYBU-eBw?si=YlbJLC1ziYIpy40r
+video: https://www.youtube.com/embed/M_ysYBU-eBw?si=YTYNw0FO7woKLM4E
 thumbnail: matching.jpg
 #thumbnail: treehouse-thumbnail.png
 alt: image-alt

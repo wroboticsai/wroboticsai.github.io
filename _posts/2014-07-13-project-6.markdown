@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
-video: https://youtu.be/DeA-72DdCdw?si=J7hszl1hru4j9RU7
+video: https://www.youtube.com/embed/DeA-72DdCdw?si=JtLhpyGiyODtY7MF
 thumbnail: nightmare.jpg
 #thumbnail: roundicons-thumbnail.png
 alt: image-alt

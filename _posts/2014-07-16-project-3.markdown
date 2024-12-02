@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
-video: https://youtu.be/nw2Lm2UKq2E?si=5qK2htoU3pZCPwS3
+video: https://www.youtube.com/embed/nw2Lm2UKq2E?si=zSQdDNPVwLulr8Yp
 thumbnail: minecraft.jpg
 #thumbnail: golden-thumbnail.png
 alt: image-alt

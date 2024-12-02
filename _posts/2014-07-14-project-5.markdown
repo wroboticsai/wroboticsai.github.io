@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
-video: https://youtu.be/_htDOF6rRko?si=P-GRNJSaLOhIinrO
+video: https://www.youtube.com/embed/_htDOF6rRko?si=2-Hx7ZXFbFxIgqfS
 thumbnail: bullseye.jpg
 #thumbnail: startup-framework-thumbnail.png
 alt: image-alt
