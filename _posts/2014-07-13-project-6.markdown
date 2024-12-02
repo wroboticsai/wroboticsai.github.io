@@ -3,7 +3,7 @@ title: Gretchen Photo Booth
 subtitle: HSLU
 layout: default
 modal-id: 6
-date: 2025
+date: 2014-07-15
 img: roundicons.png
 video: https://www.youtube.com/embed/DeA-72DdCdw?si=JtLhpyGiyODtY7MF
 thumbnail: nightmare.jpg
