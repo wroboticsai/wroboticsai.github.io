@@ -1,12 +1,12 @@
 ---
-title: Rock Paper Scissors with Gretchen
+title: Virtual Pen with Gretchen
 subtitle: HSLU
 layout: default
 modal-id: 7
 date: 2014-07-15
 img: startup-framework.png
-video: https://www.youtube.com/embed/rOM4UufvGBE?si=f60GtWQR_j29l2vy
-thumbnail: scissors.jpg
+video: https://www.youtube.com/embed/ZAcCCMFNI9Y?si=mhuMeA0799EJwYub
+thumbnail: virtualpen.jpg
 #thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: 2025
