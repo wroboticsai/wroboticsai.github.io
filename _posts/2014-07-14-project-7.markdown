@@ -12,6 +12,6 @@ alt: image-alt
 project-date: 2025
 client: Start Bootstrap
 category: HSLU
-description: This project focuses on the use of AI and robotics in darts and aims to enable a humanoid AI robot, Gretchen, to precisely detect scores on a dartboard. Using computer vision and polar coordinate analysis, we modified Gretchen to interact with the physical game environment, overcoming the challenges of object recognition and robotic precision. As a result Gretchen was able to successfully calculate the scores during darts. This work not only demonstrates the possibilities of AI and robotics in precision sports, but also creates a baseline for future work on human-robot interaction in traditional games.
+description: This application uses the simplified humanoid robot "Gretchen" to simulate a partner for a game of "Rock, Paper & Scissors".
 
 ---
