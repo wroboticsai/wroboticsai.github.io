@@ -12,6 +12,6 @@ alt: image-alt
 project-date: 2025
 client: Start Bootstrap
 category: HSLU
-description: This project focuses on the use of AI and robotics in darts and aims to enable a humanoid AI robot, Gretchen, to precisely detect scores on a dartboard. Using computer vision and polar coordinate analysis, we modified Gretchen to interact with the physical game environment, overcoming the challenges of object recognition and robotic precision. As a result Gretchen was able to successfully calculate the scores during darts. This work not only demonstrates the possibilities of AI and robotics in precision sports, but also creates a baseline for future work on human-robot interaction in traditional games.
+description: The primary objective of this project is to leverage Gretchen's capabilities to create an interactive and educational game of Hangman that offers real-time media recognition by presenting the alphabets on cue cards.Such approach not only encourages full participation, but also introduces an innovate twist, enhancing user engagement and educational values through AI-driven game play.Additionally, the programme includes movements to make Gretchen , while show human-like reactions as response to the guessed letters whenever the players guesses right or wrong or eventually loses a game.
 
 ---
